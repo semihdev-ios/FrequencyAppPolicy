@@ -84,10 +84,6 @@ Privacy Policy
                 Length: Lifetime
                 Price: $9.99
 
-                Title: Frequency Healing Sounds 
-                Length: Special Lifetime
-                Price: $6.99
-
                 Functional links to the privacy policy and Terms of Use (EULA): Privacy Policy | Terms of Use
                 https://github.com/semihdev-ios/FrequencyAppPolicy/blob/main/policy.txt
                 
